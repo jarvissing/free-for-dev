@@ -1662,6 +1662,7 @@ Update Time, five active automations, webhooks.
 
 ## Miscellaneous
 
+  * [AI Tool Suite](https://aitoolsuite.lol) - 100% free, client-side utility suite featuring 56+ developer and AI utilities (JSON/CSV converters, JWT verifier, CIDR calculator, CSS generators) with sub-50ms local execution, zero ads, and zero server data retention.
   * [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
   * [Blynk](https://blynk.io) - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
   * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
